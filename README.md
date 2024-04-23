@@ -1,4 +1,4 @@
-Ⓜ ### **MOVEEDA** 🎉 
+Ⓜ **MOVEEDA** 🎉 
 
 Moveeda è una piattaforma che ti permette di cercare eventi in base alla categoria, alla parola chiave o alla città di interesse. 
 *Museec*, *Dreenks*, *Artee*, *Museeum*, *Stand-up Commeeedy* e *Meeal* sono le sei categorie filtro degli eventi.
